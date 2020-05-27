@@ -9,6 +9,6 @@
  
  Release downloads include two EMS files for generating Buddhabrots:
  
- ![Sample Buddhabrot #1](https://github.com/apeirography/EMS2Buddhabrot/tree/master/examples/Buddhabrot_of_1145144167_waypoints_from_232931_seeds_with_depths_between_5000-5999_rendered_in_0h0m30s.png)
+ ![Sample Buddhabrot #1](https://raw.githubusercontent.com/apeirography/EMS2Buddhabrot/master/examples/Buddhabrot_of_1145144167_waypoints_from_232931_seeds_with_depths_between_5000-5999_rendered_in_0h0m30s.png)
  
- ![Sample Buddhabrot #2](https://github.com/apeirography/EMS2Buddhabrot/tree/master/examples/Buddhabrot_of_6621136892_waypoints_from_1000_seeds_with_depths_between_1001149-761816348_rendered_in_0h2m23s.png)
+ ![Sample Buddhabrot #2](https://raw.githubusercontent.com/apeirography/EMS2Buddhabrot/master/examples/Buddhabrot_of_6621136892_waypoints_from_1000_seeds_with_depths_between_1001149-761816348_rendered_in_0h2m23s.png)
